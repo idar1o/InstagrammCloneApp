@@ -72,4 +72,3 @@ SOFTWARE.
 
 Created with ❤️ and Kotlin.
 
-Translated with DeepL.com (free version)
